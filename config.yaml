@@ -1,0 +1,6 @@
+path: C:\Users\K.S RAO\OneDrive\Documents\data #dataset root dir
+train: images\train 
+val: images\train
+
+names:
+  0: Rocks
